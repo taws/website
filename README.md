@@ -1,9 +1,9 @@
-Website
+Website 
 =======
 
 Website for Taws Group.
 
-Directories
+Directories of an website
 -----------
 
 * **mockups:** Mockup images of web pages. Using [Cacoo](www.cacoo.com)
