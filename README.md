@@ -3,7 +3,7 @@ Website
 
 Website for Taws Group.
 
-Directories
+Directories Are Given Below
 -----------
 
 * **mockups:** Mockup images of web pages. Using [Cacoo](www.cacoo.com)
