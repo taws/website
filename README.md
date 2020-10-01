@@ -1,7 +1,7 @@
 Website
 =======
 
-Website for Taws Group.
+A Website made for Taws Group. 
 
 Directories
 -----------
