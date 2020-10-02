@@ -1,9 +1,9 @@
 Website
 =======
 
-Website for Taws Group.
+ awesome Website for Taws Group.
 
-Directories
+Directories for the website !!!
 -----------
 
 * **mockups:** Mockup images of web pages. Using [Cacoo](www.cacoo.com)
